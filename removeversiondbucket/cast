@@ -1,2 +1,2 @@
 asciinema rec --overwrite removeversiondbucket.cast
-asciicast2gif -s1 -S1 -w71 -h31 removeversiondbucket.cast removeversiondbucket.gif
+asciicast2gif -s1 -S1 -w75 -h33 removeversiondbucket.cast removeversiondbucket.gif
