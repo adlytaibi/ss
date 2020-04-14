@@ -1,0 +1,2 @@
+asciinema rec --overwrite mpup.cast
+asciicast2gif -s1 -S1 -w78 -h33 mpup.cast mpup.gif
